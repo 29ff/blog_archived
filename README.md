@@ -1,2 +1,2 @@
-# blog_archived
+# Blog Archived
 Collection of all my blogs published on Hashnode
